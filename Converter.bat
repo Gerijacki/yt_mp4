@@ -1,22 +1,18 @@
 @echo off
 
-echo Descargando Python...
-curl -o python-installer.exe https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
+:: Descarrega i instal·la Python
+curl -o python-installer.exe https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe
+python-installer.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
 
-echo Instalando Python...
-python-installer.exe /quiet InstallAllUsers=1 PrependPath=1 Include_launcher=0
+:: Actualitza pip
+python -m pip install --upgrade pip
 
-echo Actualizando pip...
-python -m ensurepip --upgrade
+:: Instal·la les llibreries
+pip install os pytube pysimplegui
 
-echo Instalando las librerías desde requirements.txt...
-pip install -r requirements.txt
-
-echo Ejecutando el código Python...
+:: Executa l'arxiu Python youtube_to_mp4.py
 python youtube_to_mp4.py
 
-echo Limpieza...
+:: Elimina l'arxiu d'instal·lació de Python
 del python-installer.exe
 
-echo Proceso completado. Presiona cualquier tecla para salir.
-pause >nul
