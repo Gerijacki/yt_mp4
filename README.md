@@ -22,16 +22,17 @@ This Python script enables you to effortlessly download YouTube videos and store
 
    Clone the repository:
 
-        ```bash
+        ```
             git clone https://github.com/tuusu/youtube-to-mp4.git
         ```
     Install the dependencies:
-        ```bash
-            pip install pytube
-            pip install PySimpleGUI
+
+        ```
+            pip install pytube PySimpleGUI
         ```
     Launch the app:
-        ```bash
+
+        ```
             python youtube_to_mp4.py
         ```
 
