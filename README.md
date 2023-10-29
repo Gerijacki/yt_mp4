@@ -44,7 +44,7 @@ YouTube to MP4 Downloader is a Python script that enables you to effortlessly do
    - **Efficiency:** Swiftly converts YouTube videos to MP4 format.
    - **Dependency-free:** No external dependencies, ensuring a lightweight experience.
 
-## Usage Examples
+<!-- ## Usage Examples
 
 Here are a few examples demonstrating how to use the YouTube to MP4 Downloader:
 
@@ -64,7 +64,7 @@ Here are a few examples demonstrating how to use the YouTube to MP4 Downloader:
 
   ```
   python youtube_to_mp4.py --url <VIDEO_URL> --output <DOWNLOAD_PATH>
-  ```
+  ``` -->
 
 3. **Disclaimer**
 
