@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="(https://avatars.githubusercontent.com/u/Gerijacki)" width="100" alt="Logo"/><br/>
+    <img src="(https://github.com/Gerijacki.png)" width="100" alt="Logo"/><br/>
     <img src="URL_de_la_Imagen_Transparente" height="30" width="0px"/>
     Hi 👋, i'm <a href="https://github.com/Gerijacki">Gerijacki</a>
 </h3>
@@ -22,18 +22,18 @@ This Python script enables you to effortlessly download YouTube videos and store
 
    Clone the repository:
 
-   ```bash
-        git clone https://github.com/tuusu/youtube-to-mp4.git
-    ```
-Install the dependencies:
-    ```bash
-        pip install pytube
-        pip install PySimpleGUI
-    ```
-Launch the app:
-    ```bash
-        python youtube_to_mp4.py
-    ```
+        ```bash
+            git clone https://github.com/tuusu/youtube-to-mp4.git
+        ```
+    Install the dependencies:
+        ```bash
+            pip install pytube
+            pip install PySimpleGUI
+        ```
+    Launch the app:
+        ```bash
+            python youtube_to_mp4.py
+        ```
 
 2. **Features**
 - Simplicity: Easy-to-use interface, making video downloads hassle-free.
