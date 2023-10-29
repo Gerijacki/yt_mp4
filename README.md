@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gerijacki/github-readme-stats/stargazers"><img src="https://img.shields.io/github/stars/Gerijacki/github-readme-stats?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-  <a href="https://github.com/Gerijacki/github-readme-stats/issues"><img src="https://img.shields.io/github/issues/Gerijacki/github-readme-stats?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-  <a href="https://github.com/Gerijacki/github-readme-stats/contributors"><img src="https://img.shields.io/github/contributors/Gerijacki/github-readme-stats?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+  <a href="https://github.com/Gerijacki/yt_mp4/stargazers"><img src="https://img.shields.io/github/stars/Gerijacki/yt_mp4?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <a href="https://github.com/Gerijacki/yt_mp4/issues"><img src="https://img.shields.io/github/issues/Gerijacki/yt_mp4?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+  <a href="https://github.com/Gerijacki/yt_mp4/contributors"><img src="https://img.shields.io/github/contributors/Gerijacki/yt_mp4?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+
 </p>
 
 ## Overview
