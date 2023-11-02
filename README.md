@@ -9,7 +9,6 @@
   <a href="https://github.com/Gerijacki/yt_mp4/stargazers"><img src="https://img.shields.io/github/stars/Gerijacki/yt_mp4?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
   <a href="https://github.com/Gerijacki/yt_mp4/issues"><img src="https://img.shields.io/github/issues/Gerijacki/yt_mp4?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
   <a href="https://github.com/Gerijacki/yt_mp4/contributors"><img src="https://img.shields.io/github/contributors/Gerijacki/yt_mp4?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-
 </p>
 
 ## Overview
@@ -22,50 +21,32 @@ YouTube to MP4 Downloader is a Python script that enables you to effortlessly do
 
    Make sure you have Python installed. If not, download and install it from [python.org](https://www.python.org/).
 
-    Clone the repository:
+    You can install the application using the following methods:
 
-    ```
-    git clone https://github.com/Gerijacki/youtube-to-mp4.git
-    ```
+    - **From GitHub Releases:**
+      1. Go to the [Releases](https://github.com/Gerijacki/yt_mp4/releases) page.
+      2. Download the latest release for your operating system.
+      3. Extract the downloaded ZIP file.
+      4. Run the `youtube_to_mp4` executable.
 
-    Install the dependencies:
-
-    ```
-    pip install pytube PySimpleGUI
-    ```
-
-    Launch the app:
-
-    ```
-    python youtube_to_mp4.py
-    ```
+    - **From Source:**
+      Clone the repository:
+      ```
+      git clone https://github.com/Gerijacki/youtube-to-mp4.git
+      ```
+      Install the dependencies:
+      ```
+      pip install pytube PySimpleGUI
+      ```
+      Launch the app:
+      ```
+      python youtube_to_mp4.py
+      ```
 
 2. **Features**
    - **Simplicity:** Easy-to-use interface, making video downloads hassle-free.
    - **Efficiency:** Swiftly converts YouTube videos to MP4 format.
    - **Dependency-free:** No external dependencies, ensuring a lightweight experience.
-
-<!-- ## Usage Examples
-
-Here are a few examples demonstrating how to use the YouTube to MP4 Downloader:
-
-- To download a single video:
-
-  ```
-  python youtube_to_mp4.py --url <VIDEO_URL>
-  ```
-
-- To download a playlist:
-
-  ```
-  python youtube_to_mp4.py --url <PLAYLIST_URL> --playlist
-  ```
-
-- To specify a download location:
-
-  ```
-  python youtube_to_mp4.py --url <VIDEO_URL> --output <DOWNLOAD_PATH>
-  ``` -->
 
 3. **Disclaimer**
 
